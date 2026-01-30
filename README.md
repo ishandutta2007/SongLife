@@ -80,3 +80,7 @@ Thanks to the AI research community for these incredible open-source contributio
 For SEO: open source music foundation models, music AI generation, open sourced AI music tools, foundation models for music creation.
 
 
+
+### ✨ Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=ishandutta2007/SongLife&type=date&legend=top-left)](https://www.star-history.com/#ishandutta2007/SongLife&type=date&legend=top-left)
