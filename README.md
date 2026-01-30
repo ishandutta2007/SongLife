@@ -44,6 +44,8 @@ Here's a table of top open-sourced music foundation models, including links to G
 | **Jukebox** 🎼 | OpenAI's neural music generation model with genre and artist conditioning. Generates raw audio in various styles. | [openai/jukebox](https://github.com/openai/jukebox) | [OpenAI Repo](https://github.com/openai/jukebox) |
 | **Riffusion** 🌟 | Stable Diffusion adapted for audio generation, creating music from text descriptions. Great for experimental sounds. | [riffusion/riffusion](https://github.com/riffusion/riffusion) | [Riffusion GitHub](https://github.com/riffusion/riffusion) |
 | **Magenta** 📈 | Google's open-source toolkit for music generation and machine learning research, including models like MusicVAE for interpolation and creation. | [tensorflow/magenta](https://github.com/tensorflow/magenta) | [Magenta Site](https://magenta.tensorflow.org/) |
+| **MuseTalk** 📈 | GReal-Time High Quality Lip Synchorization with Latent Space Inpainting. | [TMElyralab/MuseTalk](https://github.com/TMElyralab/MuseTalk) | [Magenta Site](MuseTalk) |
+
 
 These models are selected for their foundation-level capabilities in music AI. For more on open source music generation AI models, check the resources section below.
 
